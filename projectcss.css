@@ -1,0 +1,25 @@
+body{
+	background:url("images/aboutbg.jpg")no-repeat center center fixed;
+	background-size: cover;
+	}
+.container-fluid{
+		background-color:burlywood;
+		color:saddlebrown;
+	       }
+h1{
+	color:beige;
+	font-family:'Fredoka One', cursive;
+	font-size:50px;
+	letter-spacing:0.02em;
+	}
+h3{
+	color:burlywood;
+	font-family: 'Monoton', cursive;
+	font-size:30px;
+	}
+p{
+	color:linen;
+	font-family: 'Charm', cursive; 
+	letter-spacing:0.09em; 
+	font-size:20px;
+	}

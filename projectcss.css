@@ -1,6 +1,6 @@
 body{
-	background:url("images/aboutbg.jpg")no-repeat center center fixed;
-	background-size: cover;
+	background:url("images/aboutbg.jpg") no-repeat center center fixed;
+	background-size: 100% 100%;
 	}
 .container-fluid{
 		background-color:burlywood;
@@ -11,15 +11,21 @@ h1{
 	font-family:'Fredoka One', cursive;
 	font-size:50px;
 	letter-spacing:0.02em;
+	text-align: center;
 	}
 h3{
 	color:burlywood;
 	font-family: 'Monoton', cursive;
 	font-size:30px;
+	text-align: center;
 	}
 p{
+	text-align: center;
 	color:linen;
 	font-family: 'Charm', cursive; 
 	letter-spacing:0.09em; 
 	font-size:20px;
 	}
+li a{
+	text-align: left;
+}
